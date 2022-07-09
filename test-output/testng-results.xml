@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-09T15:34:41 IST" name="Default suite" finished-at="2022-07-09T15:34:41 IST" duration-ms="101">
+    <groups>
+    </groups>
+    <test started-at="2022-07-09T15:34:41 IST" name="Default test" finished-at="2022-07-09T15:34:41 IST" duration-ms="101">
+      <class name="testPackage.TestClassA">
+        <test-method is-config="true" signature="beforeclass()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="beforeclass" finished-at="2022-07-09T15:34:41 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="beforeMethod" finished-at="2022-07-09T15:34:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test2()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="test2" finished-at="2022-07-09T15:34:41 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="afterMethod" finished-at="2022-07-09T15:34:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="test3()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="test3" finished-at="2022-07-09T15:34:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="beforeMethod" finished-at="2022-07-09T15:34:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="afterMethod" finished-at="2022-07-09T15:34:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="beforeMethod" finished-at="2022-07-09T15:34:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test1()[pri:-1, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="test1" finished-at="2022-07-09T15:34:41 IST" depends-on-methods="testPackage.TestClassA.test3" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="afterMethod" finished-at="2022-07-09T15:34:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="test1()[pri:-1, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="test1" finished-at="2022-07-09T15:34:41 IST" depends-on-methods="testPackage.TestClassA.test3" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="beforeMethod" finished-at="2022-07-09T15:34:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="afterMethod" finished-at="2022-07-09T15:34:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="beforeMethod" finished-at="2022-07-09T15:34:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="test4()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="test4" finished-at="2022-07-09T15:34:41 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="afterMethod" finished-at="2022-07-09T15:34:41 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:testPackage.TestClassA@16d04d3d]" started-at="2022-07-09T15:34:41 IST" name="afterClass" finished-at="2022-07-09T15:34:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- testPackage.TestClassA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
